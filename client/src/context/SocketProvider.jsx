@@ -1,4 +1,3 @@
-import dotenv from "dotenv";
 import React, { createContext, useContext, useMemo } from "react";
 import io from "socket.io-client";
 
