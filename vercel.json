@@ -1,7 +1,7 @@
 {
     "buildCommand":"cd client && yarn install && yarn build",
     "outputDirectory":"client/build",
-    "framework":"create-vite-app",
+    "framework":"vite",
     "rewrites":[
         {
             "source":"/server/(.*)",
